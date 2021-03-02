@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hey<img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px">, It's Abanoub! 
 
 <img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/abanoub_image.png" align="right" width="25%"/>
