@@ -5,9 +5,8 @@
 
 [![Most Active GitHub User Rank](https://enmc8bfz3mzv3r1.m.pipedream.net)](https://commits.top/egypt.html)
 [![Repos Badge](https://badges.pufler.dev/repos/Abanoub-Asaad)](https://badges.pufler.dev)
-![](https://komarev.com/ghpvc/?username=Abanoub-Asaad&color=green)
  
- 
+
 ### ☎️ Contact Me ☎️
 <p align="left">
  
@@ -34,9 +33,6 @@ a/>
 <a href="https://www.youtube.com/channel/UCu7plL_Dr1AVLrHMi52Nmjg" target="blank">
  <img align="left" width="30px" src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/youtube.png" alt="Abanoub" 
 a/>
- 
-</p>
+ </p>
 
-### About Me 🚀
-🎓 I'm a 3rd year Computer Science student at Ain Shams University. <br>
 
