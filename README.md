@@ -7,8 +7,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Abanoub-Asaad)](https://badges.pufler.dev)
 
  
-<h3 align="left"><b>Connect with me:</b></h3>
-
+ 
+## ☎️ Contact Me ☎️
 <p align="left">
  
 <a href="https://www.linkedin.com/in/abanoub-asaad/">
@@ -27,4 +27,12 @@
  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Abanoub" 
 a/>
 
+<a href="https://leetcode.com/Abanoub-Asaad/" target="blank">
+ <img align="left" width="30px" src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/leetcode.png" alt="Abanoub" 
+a/>
+
+<a href="https://www.youtube.com/channel/UCu7plL_Dr1AVLrHMi52Nmjg" target="blank">
+ <img align="left" width="30px" src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/youtube.png" alt="Abanoub" 
+a/>
+ 
 </p>
