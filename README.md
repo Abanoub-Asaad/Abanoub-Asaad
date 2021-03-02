@@ -5,9 +5,6 @@
 [![Most Active GitHub User Rank](https://enmc8bfz3mzv3r1.m.pipedream.net)](https://commits.top/egypt.html)
 [![Repos Badge](https://badges.pufler.dev/repos/Abanoub-Asaad)](https://badges.pufler.dev)
  
-
-### ☎️ Contact Me ☎️
-
 <p align="left">
  
 <a href="https://www.linkedin.com/in/abanoub-asaad/">
@@ -35,6 +32,12 @@ a/>
 a/>
  
 </p>
+
+<br />
+
+### About Me 🚀
+🎓 I’m a 3rd year Computer Science student at Ain Shams University.
+
 
 
 
