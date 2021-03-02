@@ -36,3 +36,6 @@ a/>
  </p>
 
 
+### About Me 🚀
+🎓 I'm a 3rd year Computer Science student at Ain Shams University. <br>
+
