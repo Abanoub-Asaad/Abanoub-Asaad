@@ -37,7 +37,7 @@ a/>
 
 ### About Me 🚀
 🎓 I’m a 3rd year Computer Science student at Ain Shams University. <br>
-👨‍💻I’m passionate about Open-Source and Linux.
+👨‍💻 I’m passionate about Open-Source and Linux.
 
 
 
