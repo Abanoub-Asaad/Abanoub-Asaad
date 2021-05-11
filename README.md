@@ -1,11 +1,14 @@
 # Hey<img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px">, It's Abanoub! 
 
-<img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/abanoub_image.png" align="right" width="25%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Asaad&show_icons=true&locale=en&theme=chartreuse-dark" align="right" alt="Abanoub" width="410" />
+<!-- <img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/abanoub_image.png" align="right" width="25%"/> -->
 
 <!-- [![Most Active GitHub User Rank](https://enmc8bfz3mzv3r1.m.pipedream.net)](https://commits.top/egypt.html) -->
 [![Repos Badge](https://badges.pufler.dev/repos/Abanoub-Asaad)](https://badges.pufler.dev)  
  
 <a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="profile for Abanoub Asaad at Stack Overflow" title="profile for Abanoub Asaad at Stack Overflow"></a>
+ 
+
  
 <p align="left">
  
@@ -37,13 +40,12 @@ a/>
  <img align="left" width="30px" src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/youtube.png" alt="Abanoub" 
 a/>
  
-</p>
+ </p>
 
 <br /><br>
 
 ### About Me 🚀
 🎓 I’m a 3rd year Computer Science student at Ain Shams University. <br>
-👨‍💻 I’m passionate about Open-Source.
-
+👨‍💻 I’m passionate about Open Source.
 
 
