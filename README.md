@@ -33,11 +33,11 @@ a/>
 </a>
 
 <a href="https://leetcode.com/abanoub7asaad/" target="blank">
- <img align="left" width="30px" src="https://github.com/abanoub-asaad/Abanoub/blob/main/Images/leetcode.png" alt="Abanoub" 
+ <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Abanoub" 
 a/>
 
 <a href="https://www.youtube.com/channel/UCu7plL_Dr1AVLrHMi52Nmjg" target="blank">
- <img align="left" width="30px" src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/youtube.png" alt="Abanoub" 
+ <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1200px-YouTube_social_red_circle_%282017%29.svg.png" alt="Abanoub" 
 a/>
  
  </p>
