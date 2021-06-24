@@ -28,6 +28,9 @@
  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Abanoub" 
 a/>
 
+<a href ="https://dev.to/abanoubasaad">
+ <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
 
 <a href="https://leetcode.com/abanoub7asaad/" target="blank">
  <img align="left" width="30px" src="https://github.com/abanoub-asaad/Abanoub/blob/main/Images/leetcode.png" alt="Abanoub" 
@@ -38,8 +41,6 @@ a/>
 a/>
  
  </p>
-
-<br /><br>
 
 ### About Me 🚀
 🎓 I’m a 3rd year Computer Science student at Ain Shams University <br>
