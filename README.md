@@ -15,7 +15,7 @@
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a> 
 
-<a href="Abanoub.Asaad200010@gmail.com">
+<a href="mailto:Abanoub.Asaad200010@gmail.com">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg"/>
 </a>
 
