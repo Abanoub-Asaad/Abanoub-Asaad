@@ -12,7 +12,7 @@
 <p align="left">
  
 <a href="https://www.linkedin.com/in/abanoub-asaad/">
-  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+  <img align="left" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" draggable="false" />
 </a> 
 
 <a href="mailto:Abanoub.Asaad200010@gmail.com">
@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://twitter.com/abanoub_asaad1">
-  <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter"        draggable="false">
+  <img align="left" width="30px" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="Twitter" draggable="false">
 </a>
 
 <a href="https://stackoverflow.com/users/15864740/abanoub-asaad" target="blank">
