@@ -8,7 +8,12 @@
 <a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="Profile for Abanoub Asaad on Stack Overflow" title="Profile for Abanoub Asaad on Stack Overflow"></a>
  
 
+### About Me 🚀
+🎓 I’m a 3rd year Computer Science student at Ain Shams University <br>
+👨‍💻 I’m passionate about Open Source.
  
+### Connect With Me 📭
+
 <p align="left">
  
 <a href="https://www.linkedin.com/in/abanoub-asaad/">
@@ -41,8 +46,6 @@ a/>
  
  </p>
 
-### About Me 🚀
-🎓 I’m a 3rd year Computer Science student at Ain Shams University <br>
-👨‍💻 I’m passionate about Open Source.
+
 
 
