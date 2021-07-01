@@ -40,7 +40,7 @@ a/>
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1200px-    YouTube_social_red_circle_%282017%29.svg.png" alt="Abanoub" 
 a/>
 
-<a href ="https://dev.to/abanoubasaad">
+<a href ="https://dev.to/abanoub7asaad">
   <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
  
