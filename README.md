@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Asaad&show_icons=true&locale=en&theme=chartreuse-dark" align="right" alt="Abanoub" width="410" />
 
 [![Most Active GitHub User Rank](https://enmc8bfz3mzv3r1.m.pipedream.net)](https://commits.top/egypt.html)
-[![Repos Badge](https://badges.pufler.dev/repos/Abanoub-Asaad)](https://badges.pufler.dev)  
+[![Repos Badge](https://badges.pufler.dev/repos/Abanoub-Asaad)](https://badges.pufler.dev) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Asaad)
  
 <a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="Profile for Abanoub Asaad on Stack Overflow" title="Profile for Abanoub Asaad on Stack Overflow"></a>
  
@@ -35,8 +35,12 @@ a/>
 <a href="https://www.youtube.com/channel/UCu7plL_Dr1AVLrHMi52Nmjg" target="blank">
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1200px-    YouTube_social_red_circle_%282017%29.svg.png" alt="Abanoub" 
 a/>
+ 
+ <a href="https://leetcode.com/abanoub7asaad">
+  <img align="left" height="25px" src="https://img.shields.io/badge/LeetCode-<COLOR>.svg" alt="LeetCode" draggable="false">
+</a>
 
-<a href ="https://dev.to/abanoub7asaad">
+ <a href ="https://dev.to/abanoub7asaad">
   <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
  
