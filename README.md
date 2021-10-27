@@ -36,6 +36,10 @@ a/>
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1200px-    YouTube_social_red_circle_%282017%29.svg.png" alt="Abanoub" 
 a/>
  
+ <a href="https://gitlab.com/Abanoub-Asaad" target="blank">
+  <img align="left" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Abanoub" 
+a/>
+ 
  <a href="https://leetcode.com/abanoub7asaad">
   <img align="left" height="25px" src="https://img.shields.io/badge/LeetCode-<COLOR>.svg" alt="LeetCode" draggable="false">
 </a>
