@@ -10,7 +10,7 @@
 
 ### About Me 🚀
 🎓 I’m a 4th year Computer Science student at Ain Shams University <br>
-👨‍💻 I like Open Source, Linux and Problem Solving.
+👨‍💻 I'm interested in Open Source, Linux and Problem Solving.
  
 ### Connect With Me 📭
 
