@@ -11,7 +11,17 @@
 ### About Me 🚀
 🎓 I’m a 4th year Computer Science student at Ain Shams University <br>
 👨‍💻 I'm interested in Open Source, Linux and Problem Solving.
- 
+
+### My Experiences 🙌
+- Software Engineer Intern [(Robusta Studio)](https://robustastudio.com/) - Joining the Android team. 
+- Open Source Contributor [(Arkanoid)](https://github.com/ankidroid/Anki-Android) - It's a flashcards android application in Java.
+- Mobile Application Developer [(PentaValue)](https://pentavalue.com/en) - Worked on learning React Native concepts and applying them on [BookStore](https://github.com/Abanoub-Asaad/Bookstore) application.
+
+### My Blogs 🪶
+- Shortest way to find a buggy commit with Git : [Link](https://dev.to/abanoub7asaad/shortest-way-to-find-a-buggy-commit-with-git-21md)
+- Top 10 Useful GitHub Browser Extensions : [Link](https://dev.to/abanoub7asaad/top-10-useful-github-browser-extensions-2k2d)
+- Operating Systems Concepts [Ch.3 | Part 1: Processes] : [Link](https://dev.to/abanoub7asaad/operating-systems-concepts-ch-3-part-1-processes-1lcj)
+
 ### Connect With Me 📭
 
 <p align="left">
@@ -51,15 +61,3 @@ a/>
  </p>
 
 
-<!-- <div align='center'>
-   Here's my profile on StackOverflow</a>!
-<br>
-   <a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="Profile for Abanoub Asaad on Stack Overflow" title="Profile for Abanoub Asaad on Stack Overflow"></a></div>
-
-
-<div align='center'>
- Checkout my progress on Leetcode</a>!
-<br>
- <a href='https://leetcode.com/abanoub7asaad/'><img src='https://leetcode-stats-six.vercel.app/api?username=abanoub7asaad&theme=dark'></a></div>
-<br>
- -->
