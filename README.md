@@ -16,6 +16,7 @@
 - Software Engineer Intern [(Robusta Studio)](https://robustastudio.com/) - Joining the Android team. 
 - Open Source Contributor [(Arkanoid)](https://github.com/ankidroid/Anki-Android) - It's a flashcards android application in Java.
 - Mobile Application Trainee [(PentaValue)](https://pentavalue.com/en) - Worked on learning React Native concepts and applying them on [BookStore](https://github.com/Abanoub-Asaad/Bookstore) application.
+- Cloud Application Trainee [(IBM)](https://www.ibm.com/eg-en?lnk=m) - Learned basics of Cloud and APIs.
 
 ### My Blogs 🪶
 - Shortest way to find a buggy commit with Git : [Link](https://dev.to/abanoub7asaad/shortest-way-to-find-a-buggy-commit-with-git-21md)
