@@ -32,7 +32,7 @@
 </a> 
 
 <a href="mailto:Abanoub.Asaad200010@gmail.com">
-  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg"/>
+  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
 </a>
 
 <a href="https://twitter.com/abanoub7asaad">
