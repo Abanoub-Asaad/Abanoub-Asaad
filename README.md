@@ -34,11 +34,11 @@
 <a href="https://www.linkedin.com/in/abanoub-asaad/">
   <img align="left" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" draggable="false" />
 </a> 
-
+<!-- 
 <a href="mailto:Abanoub.Asaad200010@gmail.com">
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
 </a>
-
+ -->
 <a href="https://twitter.com/abanoub7asaad">
   <img align="left" width="30px" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="Twitter" draggable="false">
 </a>
