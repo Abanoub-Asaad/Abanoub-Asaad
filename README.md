@@ -16,7 +16,7 @@
 
 ### My Experiences 🙌
 - Software Engineer Intern [(Robusta Studio)](https://robustastudio.com/) - Joining the Android team.  
-- Open Source Contributor [(Arkanoid)](https://github.com/ankidroid/Anki-Android) - It's a flashcards android application in Java. Fixed bugs and Built new features.
+- Open Source Contributor [(AnkiDroid)](https://github.com/ankidroid/Anki-Android) - It's a flashcards android application in Java. Fixed bugs and Built new features.
 - Linux Moderator [(OSC 'Open Source Community')](https://www.facebook.com/oscgeeks) - Learned concepts related to Linux and Bash, Conducted sessions like this [online session](https://youtu.be/q95xt399Gps) and Wrote blogs like this [blog](https://github.com/Open-Source-Community/Linux-Reviews/blob/master/Linux-Features.md). 
 - Microsoft Learn Student Ambassador [(MLSA)](https://studentambassadors.microsoft.com/en-US/profile/94984) - Learning new concepts in public with students from all over the world.
 -  Mobile Application Trainee [(PentaValue)](https://pentavalue.com/en) - Worked on learning React Native concepts and applying them on [BookStore](https://github.com/Abanoub-Asaad/Bookstore) application.
