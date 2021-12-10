@@ -23,9 +23,9 @@
 - Cloud Application Trainee [(IBM)](https://www.ibm.com/eg-en?lnk=m) - Learned basics of Cloud and APIs.
 
 ### My Blogs 🪶
-- Shortest way to find a buggy commit with Git : [Link](https://dev.to/abanoub7asaad/shortest-way-to-find-a-buggy-commit-with-git-21md)
-- Top 10 Useful GitHub Browser Extensions : [Link](https://dev.to/abanoub7asaad/top-10-useful-github-browser-extensions-2k2d)
-- Operating Systems Concepts [Ch.3 | Part 1: Processes] : [Link](https://dev.to/abanoub7asaad/operating-systems-concepts-ch-3-part-1-processes-1lcj)
+- [Shortest way to find a buggy commit with Git](https://dev.to/abanoub7asaad/shortest-way-to-find-a-buggy-commit-with-git-21md)
+- [Top 10 Useful GitHub Browser Extensions](https://dev.to/abanoub7asaad/top-10-useful-github-browser-extensions-2k2d)
+- [Operating Systems Concepts: Processes](https://dev.to/abanoub7asaad/operating-systems-concepts-ch-3-part-1-processes-1lcj)
 
 ### Connect With Me 📭
 
