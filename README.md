@@ -54,19 +54,16 @@ a/>
  <a href="https://gitlab.com/Abanoub-Asaad" target="blank">
   <img align="left" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Abanoub" 
 a/>
- 
-  <a href ="https://dev.to/abanoub7asaad">
-  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  
+<a href="https://codeforces.com/profile/Abanoub_Asaad">
+  <img align="left" src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/codeforcesLogo.png" width="30px" alt="Codeforces">
 </a>
   
  <a href="https://leetcode.com/abanoub7asaad">
   <img align="left" height="25px" src="https://img.shields.io/badge/LeetCode-<COLOR>.svg" alt="LeetCode" draggable="false">
 </a>
-
-<!--  <a href ="https://codeforces.com/profile/Abanoub_Asaad">
-  <img align="left" height="25px" src="https://img.shields.io/badge/Codeforces-<COLOR>.svg" draggable="false">
+  
+  <a href ="https://dev.to/abanoub7asaad">
+  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
-   -->
- </p>
-
 
