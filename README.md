@@ -23,6 +23,7 @@
 - Cloud Application Trainee [(IBM)](https://www.ibm.com/eg-en?lnk=m) - Learned basics of Cloud and APIs.
 
 ### My Blogs 📝
+- [Top 7 LeetCode extensions](https://dev.to/abanoub7asaad/top-7-leetcode-extensions-1odn)
 - [Shortest way to find a buggy commit with Git](https://dev.to/abanoub7asaad/shortest-way-to-find-a-buggy-commit-with-git-21md)
 - [Top 10 Useful GitHub Browser Extensions](https://dev.to/abanoub7asaad/top-10-useful-github-browser-extensions-2k2d)
 - [Operating Systems Concepts: Processes](https://dev.to/abanoub7asaad/operating-systems-concepts-ch-3-part-1-processes-1lcj)
