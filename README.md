@@ -1,4 +1,4 @@
-# Hey<img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px">, It's Abanoub! 
+# Hey<img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px" height="35px">, It's Abanoub! 
 
 
 
