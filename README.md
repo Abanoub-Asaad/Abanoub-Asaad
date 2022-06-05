@@ -44,7 +44,7 @@
   <img align="left" width="30px" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="Twitter" draggable="false">
 </a>
 
-<a href="https://stackoverflow.com/users/15864740/abanoub-asaad" target="blank">
+<a href="https://stackoverflow.com/users/15864740/abanoub-asaad?tab=topactivity" target="blank">
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Abanoub" 
 a/>
 
