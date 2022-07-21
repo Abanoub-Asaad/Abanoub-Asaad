@@ -3,7 +3,7 @@
 
 
 [![Most Active GitHub User Rank](https://enmc8bfz3mzv3r1.m.pipedream.net)](https://commits.top/egypt.html)
-[![Repos Badge](https://badges.pufler.dev/repos/Abanoub-Asaad)](https://badges.pufler.dev) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Asaad)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Asaad)
  
 <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Asaad&show_icons=true&locale=en&theme=chartreuse-dark" align="right" alt="Abanoub" width="410" />
  
