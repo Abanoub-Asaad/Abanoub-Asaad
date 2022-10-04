@@ -47,10 +47,6 @@
 <a href="https://stackoverflow.com/users/15864740/abanoub-asaad?tab=topactivity" target="blank">
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Abanoub" 
 a/>
-
-<a href="https://www.youtube.com/channel/UCu7plL_Dr1AVLrHMi52Nmjg/" target="blank">
-  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1200px-    YouTube_social_red_circle_%282017%29.svg.png" alt="Abanoub" 
-a/>
  
  <a href="https://gitlab.com/Abanoub-Asaad" target="blank">
   <img align="left" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Abanoub" 
