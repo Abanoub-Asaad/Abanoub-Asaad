@@ -11,11 +11,11 @@
  
 
 ### About Me 🚀
-🎓 I’m a 4th year Computer Science student at Ain Shams University <br>
+🎓 I’m a Computer Science Fresh Graduate at Ain Shams University <br>
 👨‍💻 I'm interested in Open Source, Linux and Problem Solving.
 
 ### My Experiences 🙌
-- Software Engineer Intern [(Robusta Studio)](https://robustastudio.com/) - Joining the Android team.  
+- Software Engineer Intern [(Robusta Studio)](https://robustastudio.com/) - Joined the Android team.  
 - Open Source Contributor [(AnkiDroid)](https://github.com/ankidroid/Anki-Android) - It's a flashcards android application in Java. Fixed bugs and Built new features.
 - Linux Moderator [(OSC 'Open Source Community')](https://www.facebook.com/oscgeeks) - Learned concepts related to Linux and Bash, Conducted sessions like this [online session](https://youtu.be/q95xt399Gps) and Wrote blogs like this [blog](https://github.com/Open-Source-Community/Linux-Reviews/blob/master/Linux-Features.md). 
 - Microsoft Learn Student Ambassador [(MLSA)](https://studentambassadors.microsoft.com/en-US/profile/94984) - Learning new concepts in public with students from all over the world.
@@ -46,6 +46,10 @@
 
 <a href="https://stackoverflow.com/users/15864740/abanoub-asaad?tab=topactivity" target="blank">
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Abanoub" 
+a/>
+ 
+<a href="https://www.youtube.com/channel/UCu7plL_Dr1AVLrHMi52Nmjg/" target="blank">
+  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1200px-    YouTube_social_red_circle_%282017%29.svg.png" alt="Abanoub" 
 a/>
  
  <a href="https://gitlab.com/Abanoub-Asaad" target="blank">
