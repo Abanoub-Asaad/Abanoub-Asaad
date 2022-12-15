@@ -12,7 +12,8 @@
 
 ### About Me 🚀
 🎓 I’m a Computer Science Fresh Graduate from Ain Shams University <br>
-👨‍💻 I'm interested in Open Source, Linux and Problem Solving.
+👨‍💻 I'm interested in Open Source, Linux and Problem Solving <br>
+📧 How to reach me: abanoub.asaad200010@gmail.com 
 
 ### My Experiences 🙌
 - Software Engineer [(Orange Egypt)](https://www.orange.eg/en/) - Joined Promo Engine team.
