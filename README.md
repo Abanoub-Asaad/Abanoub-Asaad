@@ -11,7 +11,7 @@
  
 
 ### About Me 🚀
-🎓 I’m a Computer Science Fresh Graduate from Ain Shams University <br>
+🎓 I’m a Computer Science Fresh Grad from Ain Shams University <br>
 👨‍💻 I'm interested in Open Source, Linux and Problem Solving <br>
 📧 How to reach me: abanoub.asaad200010@gmail.com 
 
