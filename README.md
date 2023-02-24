@@ -30,7 +30,7 @@
 - [Operating Systems Concepts: Processes](https://dev.to/abanoub7asaad/operating-systems-concepts-ch-3-part-1-processes-1lcj)
 
 ### Hobbies ✨
-- Mobile Photography 📸 : [Instagram @abanoub_asaad.ph](https://www.instagram.com/abanoub_asaad.ph/)
+- Photography 📸 : [Instagram @abanoub_asaad.ph](https://www.instagram.com/abanoub_asaad.ph/)
 
 ### Connect With Me 📭
 
