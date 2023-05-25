@@ -1,14 +1,12 @@
-# Hey<img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px" height="35px">, It's Abanoub! 
-
+# Hey<img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px" height="35px">, It's Abanoub!
 
 <!-- 
 [![Most Active GitHub User Rank](https://enmc8bfz3mzv3r1.m.pipedream.net)](https://commits.top/egypt.html) -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Asaad)
- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Asaad&show_icons=true&locale=en&theme=chartreuse-dark" align="right" alt="Abanoub" width="410" />
  
-<a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="Profile for Abanoub Asaad on Stack Overflow" title="Profile for Abanoub Asaad on Stack Overflow"></a>
- 
+<a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="Profile for Abanoub Asaad on Stack Overflow" title="Profile for Abanoub Asaad on Stack Overflow"></a> <img width="10%" alt="gif" src="https://github.com/Abanoub-Asaad/Abanoub-Asaad/blob/main/Images/pepe-frog.gif?raw=true" />
 
 ### About Me 🚀
 🎓 I’m a Computer Science Graduate from Ain Shams Uni. <br>
@@ -71,4 +69,4 @@ a/>
   <a href ="https://dev.to/abanoub7asaad">
   <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
-
+  
