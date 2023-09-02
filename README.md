@@ -29,6 +29,7 @@
 
 ### Hobbies ✨
 - Photography 📸 : [Instagram @abanoub_asaad.ph](https://www.instagram.com/abanoub_asaad.ph/)
+- Ping Pong 🏓
 
 ### Connect With Me 📭
 
