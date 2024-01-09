@@ -14,6 +14,7 @@
 📧 How to reach me: abanoub.asaad200010@gmail.com 
 
 ### My Experiences 🙌
+- Software Engineer II [(DXC Technology)](https://www.dxc.com) - Joined London Market.
 - Software Engineer [(Orange Egypt)](https://www.orange.eg/en/) - Joined Promo Engine team.
 - Software Engineer Intern [(Robusta Studio)](https://robustastudio.com/) - Joined the Android team.  
 - Open Source Contributor [(AnkiDroid)](https://github.com/ankidroid/Anki-Android) - It's a flashcards android application in Java. Fixed bugs and Built new features.
